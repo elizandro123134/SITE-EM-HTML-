@@ -16,7 +16,7 @@
             <h2>Curso de HTML </h2>
             <img class="lado" src="imagens/curso-html-css.png" alt="Curso HTML">
             <p>A <abbr title="HyperText Markup Language">HTML</abbr> é uma linguagem de marcação para a criação de sites. Atualmente na versão 5, ela usa a semântica dos elementos para criar o conteúdo de uma página Web. Com as <abbr title="Cascading Style Sheets">CSS</abbr>, criamos as configurações visuais que um site vai ter.</p>
-            <p><a href="curso-html.html">Acesse o curso de HTML5</a></p>
+            <p><a href="curso-html.html">Acesse o curso de HTML</a></p>
         </article>
         <article>
             <h2>Curso de JavaScript</h2>
